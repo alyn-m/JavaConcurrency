@@ -20,5 +20,5 @@ What is Concurrency?
 >It manages the thread execution.
 
 ### Executor Framework Heirarchy
-    <img width="710" height="400" alt="image" src="https://github.com/user-attachments/assets/707a056c-46ea-4bc2-8e50-35487ec1b342" />
+<img width="710" height="400" alt="image" src="https://github.com/user-attachments/assets/707a056c-46ea-4bc2-8e50-35487ec1b342" />
 
