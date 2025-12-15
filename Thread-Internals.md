@@ -1,3 +1,7 @@
+```markdown
+# Java Thread Internal Working
+
+```mermaid
 flowchart TB
 
     A[Java Application Code] --> B[new Thread()]
